@@ -21,7 +21,8 @@ I designed and developed this interactive sales dashboard using Power BI to anal
 ## Dashboard Preview:
 *(Below is the visual snapshot of the completed dashboard)*
 
-![Motorola Sales Dashboard](dashboard-screenshot.png)
+![Motorola Sales Dashboard](Screenshot (68).png)
+
 
 ---
 
